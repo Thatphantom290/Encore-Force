@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#opposing_force:has_monster/overworld",
+  "spawners": {
+    "type": "encore_force:glash",
+    "maxCount": 1,
+    "minCount": 1,
+    "weight": 5
+  }
+}
